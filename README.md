@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek 
-- 👀 I’m interested in Design and Development Sector
-- 🌱 I’m currently learning Full Stack Web Development Course
+- 👀 I’m interested in Development Sector
+- 🌱 I’m currently learning Full Stack Software Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
